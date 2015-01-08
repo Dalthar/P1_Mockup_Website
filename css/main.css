@@ -1,0 +1,30 @@
+/* Enter your custom CSS here */
+body {
+   color:#666666;
+    font-family:Kalimati, Verdana, sans-serif;
+}
+h1 {
+    text-align:center;
+}
+h2 {
+ color:#F07C17;   
+}
+#container {
+    width:1024px;
+}
+#main {
+    width:936px;
+    margin-left:42px;
+    margin-right:46px;
+	display:block;
+}
+#left_col {
+	float:left;
+	margin-right:32px;
+}
+#features {
+	width:375px;
+	height:223px;
+	margin-left:32px;
+	margin-top:35px;
+}
